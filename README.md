@@ -47,18 +47,11 @@ JOSE publishes two types of (brief) articles that describe:
 
  ## The team
 
- The editorial board includes:
+ Founding members of the editorial board:
   - Lorena A. Barba (editor-in-chief), George Washington University
-  - Kathryn D. Huff, University of Illinois at Urbana–Champaign
   - Jason Moore, University of California, Davis
   - Kyle Niemeyer, Oregon State University
-  - Anthony Scopatz, University of South Carolina
-  - Charles R. Severance, University of Michigan
-  - Robert Talbert, Grand Valley State University
-  - Tracy Teal, Data Carpentry
 
- Advisors to the journal include:
-  - Carly Strasser, Moore Foundation
 
 
  ## The site
