@@ -67,6 +67,8 @@ The JOSE submission tool is hosted at http://jose.theoj.org.
  In order to ensure an open and welcoming community, JOSE adheres to a code of conduct adapted from the [Contributor Covenant](https://contributor-covenant.org) code of conduct.
 
  Please adhere to this code of conduct in any interactions you have in the JOSS community. It is strictly enforced on all official JOSE repositories, the JOSE website, and resources. If you encounter someone violating these terms, please let the Editor-in-Chief ([@labarba](https://github.com/labarba)) or someone on the [editorial board](http://jose.theoj.org/about#editorial_board) know and we will address it as soon as possible.
+ 
+ > See also the [JOSE Conflict of Interest Policy](https://github.com/openjournals/joss/blob/jose/COI.md)
 
  ## Contributing
 
