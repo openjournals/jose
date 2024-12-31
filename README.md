@@ -29,7 +29,7 @@ JOSE publishes two types of (brief) articles that describe:
  the course content should make use of computation for learning with embedded
  or associated code snippets/programs.
 
- We do **not** mean openly available slides, lecture notes, or YouTube videos, though these may be acceptable as supplementary materials. In addition, course syllabi by themselves are not suitable for submission ([*Syllabus*](http://syllabusjournal.org/) may be more appropriate).
+ We do **not** mean openly available slides, lecture notes, or YouTube videos, though these may be acceptable as supplementary materials. In addition, course syllabi by themselves are not suitable for submission.
 
  tl;dr: your course or lesson content must contain or use code to teach. We are not focused exclusively on learning to code, but coding to learn.
 
